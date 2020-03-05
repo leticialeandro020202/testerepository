@@ -3,6 +3,9 @@
 #testescript
 #convençãodeimagens
 #autor: Leticia Leandro Felix
+# davaniele dos santos carneiro
+#alteracoes feitas
+
 echo "iniciando"
 
 cd imagens-livros
