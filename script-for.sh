@@ -1,8 +1,9 @@
+#!/bin/bash
 #meuscriptconvertimagens
 #testescript
 #convençãodeimagens
 #autor: Leticia Leandro Felix
-#!/bin/bash
+echo "iniciando"
 
 cd imagens-livros
 for imagem in *.jpg
@@ -12,3 +13,4 @@ do
 	convert $imagem  $img_sem_ext.png
 done
 cd ..
+echo "finalizando"
