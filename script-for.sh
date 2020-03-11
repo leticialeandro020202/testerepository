@@ -6,6 +6,11 @@
 # davaniele dos santos carneiro
 #alteracoes feitas
 
+#comentarios
+#aula de servidores
+#11/03/2020
+#leticia davaniele esteve aqui
+
 echo "iniciando"
 
 cd imagens-livros
